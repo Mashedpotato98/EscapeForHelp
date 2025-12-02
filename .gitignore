@@ -35,3 +35,5 @@ mono_crash.*.json
 *.uid
 *.godot
 *.godot
+*.godot
+src/project.godot
